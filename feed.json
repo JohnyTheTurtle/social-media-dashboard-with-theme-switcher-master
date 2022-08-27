@@ -1,0 +1,95 @@
+[ {"facebook":{
+      "icon": "./images/icon-facebook.svg",
+      "name": "@nathanf",
+      "typeresult": "1987",
+      "type": "Followers",
+      "state": "up",
+      "statevalue": "12 Today"
+    },
+    "twitter":{
+      "icon": "./images/icon-twitter.svg",
+      "name": "@nathanf",
+      "typeresult": "1044",
+      "type": "Followers",
+      "state": "up",
+      "statevalue": "99 Today"
+    },
+    "instagram":{
+      "icon": "./images/icon-instagram.svg",
+      "name": "@realnathanf",
+      "typeresult": "11k",
+      "type": "Followers",
+      "state": "up",
+      "statevalue": "1099 Today"
+    },
+    "youtube":{
+      "icon": "./images/icon-youtube.svg",
+      "name": "Nathan F.",
+      "typeresult": "8239",
+      "type": "Subscribers",
+      "state": "down",
+      "statevalue": "144 Today"
+    }
+  }
+,
+{
+    "facebook1":{
+      "icon": "./images/icon-facebook.svg",
+      "type": "Page Views",
+      "typeresult": "87",
+      "state": "up",
+      "statevalue": "3%"
+    },
+    "facebook2":{
+      "icon": "./images/icon-facebook.svg",
+      "type": "Likes",
+      "typeresult": "52",
+      "state": "down",
+      "statevalue": "2%"
+    },
+    "instagram1":{
+      "icon": "./images/icon-instagram.svg",
+      "type": "Likes",
+      "typeresult": "5462",
+      "state": "up",
+      "statevalue": "2257%"
+    },
+    "instagram2":{
+      "icon": "./images/icon-instagram.svg",
+      "type": "Profile Views",
+      "typeresult": "52k",
+      "state": "up",
+      "statevalue": "1375%"
+    },
+    "twitter1":{
+      "icon": "./images/icon-twitter.svg",
+      "type": "Retweets",
+      "typeresult": "117",
+      "state": "up",
+      "statevalue": "303%"
+    },
+    "twitter2":{
+      "icon": "./images/icon-twitter.svg",
+      "type": "Likes",
+      "typeresult": "507",
+      "state": "up",
+      "statevalue": "553%"
+    },
+    "youtube1":{
+      "icon": "./images/icon-youtube.svg",
+      "type": "Likes",
+      "typeresult": "107",
+      "state": "down",
+      "statevalue": "19%"
+    },
+    "youtube2":{
+      "icon": "./images/icon-youtube.svg",
+      "type": "Total Views",
+      "typeresult": "1407",
+      "state": "down",
+      "statevalue": "12%"
+    }
+  },
+  {"headertext": "Total Followers: 23,004"
+  }
+ ]
